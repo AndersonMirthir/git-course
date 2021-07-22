@@ -1,6 +1,6 @@
 Github
 
-Testes do durso de GIT e GIT HUB do professor William Justen.
+Testes do curso de GIT e GIT HUB do professor William Justen.
 
 O curso básico muito interessante com ótima didática!
 
